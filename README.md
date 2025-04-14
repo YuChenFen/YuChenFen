@@ -3,14 +3,14 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);&center=true&size=27">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=24">
     </a>
   </div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-  <img src="http://api.xingchenfu.xyz/API/count.php?name=YuChenFen2179">
+  <img src="https://count.getloli.com/@YuChen2197?name=YuChen2197&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="YuChenFen2197" />
 
   <!-- profile logo 个人资料徽标 -->
   <div>
