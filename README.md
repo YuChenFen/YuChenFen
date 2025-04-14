@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=27">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);&center=true&size=27">
     </a>
   </div>
 
@@ -25,5 +25,22 @@
 
 </div>
 
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=YuChenFen&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuChenFen&locale=cn&line_height=33&theme=&langs_count=5&layout=compact&custom_title=编程语言"/>
+<!-- GitHub 数据统计 -->
+<div align="center">
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=YuChenFen&locale=cn&line_height=21&show_icons=true&hide=&theme=&rank_icon=percentile&hide_title=true"/>
+  <img height="137px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuChenFen&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=编程语言&hide_title=true"/>
+  <div>&nbsp;</div>
+</div>
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YuChenFen&theme=github&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YuChenFen&theme=github&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuChenFen&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+
