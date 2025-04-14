@@ -28,7 +28,7 @@
 <!-- GitHub 数据统计 -->
 <div align="center">
   <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api?username=YuChenFen&locale=cn&line_height=21&show_icons=true&hide=&theme=&rank_icon=percentile&hide_title=true"/>
-  <img height="137px" width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuChenFen&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=编程语言&hide_title=true"/>
+  <img height="137px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuChenFen&locale=cn&line_height=21&theme=&langs_count=6&layout=compact&custom_title=编程语言&hide_title=true"/>
   <div>&nbsp;</div>
 </div>
 
