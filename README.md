@@ -10,6 +10,8 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+  <img src="http://api.xingchenfu.xyz/API/count.php?name=YuChenFen2179">
+
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://ycfsh.top/" target="_blank"><img  align=center src="https://img.shields.io/badge/blog-博客-%234894ff?style=flat"/></a>
