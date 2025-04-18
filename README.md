@@ -2,9 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=24">
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=24">
   </div>
 
   <!-- for beauty 留个空行好看点 -->
